@@ -44,7 +44,7 @@ class Joueur extends ElementHtml{
          * Les vies
          * @type {number}
          */
-        this.vies=5;
+        this.vies=0;
         /**
          * La vitesse de déplacement de la raquette
          * @type {number}
