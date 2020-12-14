@@ -5,4 +5,4 @@ Un petit pong au clavier simplissime
 touches H / B 
 
 #### C'est jouable ici.
-https://davidmars.github.io/pong-jquery
+https://caesardeville.github.io/pong-monoplayer/.
